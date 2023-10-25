@@ -1,7 +1,7 @@
 {
-  "name": "snorlaxcave",
+  "name": "empire unblocker",
   "version": "1.0.0",
-  "description": "Snorlax's Cave",
+  "description": "Empire Unblocker",
   "type": "module",
   "engines": {
     "npm": ">=7.0.0",
