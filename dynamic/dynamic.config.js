@@ -3,7 +3,7 @@
 self.__dynamic$config = {
   prefix: '/lessons/apps/',
   encoding: 'xor',
-  mode: 'production', 
+  mode: 'aes', 
   logLevel: 0, 
   bare: {
     version: 2, 
